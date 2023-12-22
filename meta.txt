@@ -1,0 +1,31 @@
+Task:
+the_thrilling_Boxing_Prediction_Challenge, where_users_can_showcase_their_fight_foresight_by_predicting_the_outcome_of_upcoming_bouts. Admins_have_the_power_to_add_up_to_25_fights_for_prediction, and_results_are_updated_by_them. Users_choose_a_winner_and_method_of_victory_from_options_like_UD_(Unanimous_Decision), MD_(Majority_Decision), SD_(Split_Decision), KO_(Knockout), TKO_(Technical_Knockout), or_Draw. Admins_can_assign_point_values_to_each_correct_prediction, making_it_even_more_exciting_and_rewarding. The_point_values_are_set_as_follows: UD_=10, MD_=25, SD_=20, KO_=15, TKO_=15, DRAW_=50. Get_ready_for_an_adrenaline-packed_experience_in_the_world_of_boxing_predictions
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+website
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+5.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
